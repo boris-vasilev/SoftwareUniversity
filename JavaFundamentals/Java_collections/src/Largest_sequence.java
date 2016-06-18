@@ -49,6 +49,3 @@ public class Largest_sequence {
     }
 
 }
-//TODO: 1 Opravqne na algorityma DONE!
-//TODO: 2 Proverka za syshtestvuvane v HashMapa DONE!
-//TODO: 3 Napechatvane na nai-golqmata poredica vsledstvie na rezultatite ot HashMapa Naprimer: b->3 Output: b b b            (Tyrsim nai-golemiq)
