@@ -47,5 +47,4 @@ public class Largest_sequence {
             System.out.print(mostFrequent.getKey()+" ");
         }
     }
-
 }
